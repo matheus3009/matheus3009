@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá eu sou o matheus! ✌
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.silva_borges?igsh=Y2hvbDJod3g4Yndo)
+
+![matheus3009 GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus3009&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus3009&hide_progress=true)
+
+
 
 <!--
 **matheus3009/matheus3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
